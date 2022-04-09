@@ -1,4 +1,4 @@
-console.log('Advanced debugging example running.')
+/*console.log('Advanced debugging example running.')
 debugger
 
 // first, define the function.
@@ -26,3 +26,4 @@ function goodPractices() {
 
 // then, call the function so it runs!
 goodPractices()
+*?
